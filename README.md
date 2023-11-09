@@ -1,7 +1,7 @@
 **Model Description:**
 
 This supervised machine learning model is designed to estimate the number of calories burned during various activities by analyzing eight key features. The model employs a combination of linear regression and XGBoost Regressor to provide accurate calorie burn predictions.
-
+ 
 **Key Components**
 
 **Data Collection and Processing:** The model collects data from two CSV files, one containing calorie information and the other with exercise-related data. It combines these datasets to create a comprehensive dataset for analysis.
